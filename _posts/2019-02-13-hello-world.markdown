@@ -6,7 +6,7 @@ categories: meta bio
 ---
 "Hello World" is the first baby step in the software development when learning a new language, tool or skill.
 
-This post is a dummy introduction and a way to get my feel around writing and blogging. Currently I'm using Jekyll + Github Pages as the goal is to use something to get started fast.
+This post is a dummy introduction and a way to get my feel around writing and blogging. Currently I'm using Jekyll + Github Pages as the goal is to use something to get started fast. Originally tried Gatsby but after a few major version releases got tired of it. Most of the original blog posts were drafts or unfinished ideas from the old blog.
 
 My main purpose from this blog is to develop a habit of writing some thoughts down, as I think writing your thoughts serves two main purposes:
 1. Having a measuring stick of what you've been up to and to look back at what you were doing and thinking.
@@ -18,4 +18,4 @@ Where will this blog take direction?
 
 Probably a mix of both software and personal development ...we'll see where I can pivot this thing around.
 
-![My helpful screenshot](/assets/notebook_with_pen.jpg)
+![My helpful screenshot](/assets/img/notebook_with_pen.jpg)

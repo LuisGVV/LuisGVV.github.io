@@ -1,7 +1,7 @@
 ---
-layout: page
-title: About
-permalink: /about/
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
 
 Luis is a software developer with a comp/sci degree and specializes on web development (backend/frontend). He also likes to read about current trends in technology and their value to real world problems.
