@@ -14,9 +14,13 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Luis # the main title
+title: Luis Velásquez - Thoughts on... # the main title
 
 tagline: Thoughts on software and life # it will display as the sub-title
+
+for_hire: true
+
+curriculum_vitae: /assets/pdf/Luis_Velasquez_CV_EN-US.pdf
 
 description: >- # used by seo meta and the atom feed
   Luis Velásquez page for blogging and showcasing.

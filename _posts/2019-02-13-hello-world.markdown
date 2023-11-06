@@ -1,6 +1,6 @@
 ---
-layout: post
 title:  "Hello World"
+layout: post
 date:  2019-02-13 22:54:43 -0600
 categories: meta bio
 ---
