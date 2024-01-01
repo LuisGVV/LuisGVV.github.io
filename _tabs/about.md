@@ -9,3 +9,5 @@ Luis is a software developer with a comp/sci degree and specializes on web devel
 Outside the office you'll find him reading about math, psychology, playing strategy games and running from time to time.
 
 Born in Guatemala and but currently have lived most of my life in San José, Costa Rica.
+
+If you're interested or hiring you can [download my CV here.](/assets/pdf/Luis_Velasquez_CV_EN-US.pdf)
