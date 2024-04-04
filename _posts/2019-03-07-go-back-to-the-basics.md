@@ -2,7 +2,7 @@
 title: Go back to the basics
 layout: post
 date: 2019-03-07 12:01:43 -0600
-category: "Life"
+category: "life"
 ---
 
 When you suck or feel stuck in any personal goal it isn't because you are useless or dumb.

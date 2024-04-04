@@ -2,7 +2,7 @@
 title:  "A year of using ChatGPT"
 layout: post
 date:  2023-11-18 4:50:43 -0600
-categories: AI ChatGPT coding
+categories: [coding, software development]
 ---
 
 It's been almost a year since the text generation AI boom caused by ChatGPT. It astonished everyone in the tech world with how accurate it can be and the funny use cases. However the main use in your job is where you will get most value out of it in your life.
