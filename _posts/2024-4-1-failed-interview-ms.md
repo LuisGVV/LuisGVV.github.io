@@ -22,7 +22,7 @@ Your task is to create an algorithm that quickly determines if a given memory re
 
 ## Solution
 
-- Create a binary tree, this one should be ideally balanced ([read more in wikipedia]([https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree])), where the value of the node is the base index or the index + off set.
+- Create a binary tree, this one should be ideally balanced ([read more in wikipedia](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)), where the value of the node is the base index or the index + off set.
 - Once the tree is created search for the node that contains the index value of the input or the one that the next ascending value is greater.
   - If none is found it means that the memory isn't even contained in within the ranges of memory addresses.
 
